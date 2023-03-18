@@ -1,0 +1,38 @@
+.row {
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+}
+.login img{
+    border-radius: 30px;
+}
+
+.login h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 7px 13px 23px -11px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 7px 13px 23px -11px rgba(0,0,0,0.86);
+    -moz-box-shadow: 7px 13px 23px -11px rgba(0,0,0,0.86);
+}
+.btn1{
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background: rgb(55, 226, 132);
+    color: black;
+}
+
+.btn1:hover{
+    background: rgb(21, 206, 126);
+    transition: 0.5s;
+}
